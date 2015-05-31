@@ -1,0 +1,16 @@
+*+html{overflow:auto;}
+.clients {padding-left:100px;}
+.clients li div {
+	padding:0 7px 0;
+}
+.clients li .client_up {
+	padding-top:20px;
+	padding-bottom:30px;
+}
+.clients li .client_down {
+	padding-top:30px;
+	padding-bottom:20px;
+}
+.list_3.icon-globe {padding-left:70px;}
+.box-1 .icon_wrapper {margin:0 0 15px;float:none;}
+.post_preview .icon_wrapper + div {width:840px;}
